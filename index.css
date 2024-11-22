@@ -1,0 +1,20 @@
+.HOME{
+    background-image: url("python wall.jpg");
+    background-size: cover;
+    background-position: top center;
+    height: 800px;
+    position: sticky;
+
+}
+.Home1{
+    padding-left: 200px;
+    padding-top: 200px;
+    font-size: xx-large;
+}
+
+.JAVA1{
+    background-image: url("java2.jpg");
+    background-size: cover;
+    height: 800px;
+    
+}
